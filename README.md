@@ -18,7 +18,7 @@
 
     Compiling, Training, and Evaluating the Model
         How many neurons, layers, and activation functions did you select for your neural network model, and why?
-		For initial analysis I utilised:
+		For initial analysis (Starter_Code.ipynb) I utilised:
 		- 2 hidden layers
 		- 8 and 5 nodes in each of these layers
 		- RELU activation for each hidden layer and SIGMOID  for the output layer
@@ -31,7 +31,7 @@
         Were you able to achieve the target model performance?
 		I was only able to  achieve an accuracy of about 73.1%	This was below the target of 75%.
         What steps did you take in your attempts to increase model performance?
-		Numerous attempts were made to  improve prediction accuracy.  These include:
+		Numerous attempts were made to  improve prediction accuracy.  These include (Starter_Code optimised , Starter_Code optimised 2 and Starter_Code optimised 3.ipynb):
 		- Adding extra hidden layers (up to 4)
 		- increasing the number of nodes, e.g. 30, and 15 for 2 hidden layers
 		- Altering te activation type
